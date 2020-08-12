@@ -1,11 +1,16 @@
 {
-  "name": "allenheath-ilive",
-  "version": "1.0.0",
-  "description": "Allen & Heath iLive",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Matt Andrewartha <matt@andrewartha.net.au> - adapted from the dLive module written by Andrew Broughton <andy@checkcheckonetwo.com>",
-  "license": "MIT"
+	"name": "allenheath-ilive",
+	"version": "1.0.0",
+	"api_version": "1.0.0",
+	"keywords": ["iLive"],
+	"manufacturer": "Allen & Heath",
+	"product": ["iLive"],
+	"shortname": "iLive",
+	"description": "iLive module for Companion",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Matt Andrewartha <matt@andrewartha.net.au> - adapted from the dLive module written by Andrew Broughton <andy@checkcheckonetwo.com>",
+	"license": "MIT"
 }
